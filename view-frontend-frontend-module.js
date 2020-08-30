@@ -4857,31 +4857,31 @@ class ProtfolioData {
             {
                 catagory: "Website",
                 siteName: "India Toure Service",
-                imageName: "indiatour.png",
+                imageName: "indiatour.jpg",
                 siteLink: "https://indiaculinarytours.com/"
             },
             {
                 catagory: "Website",
                 siteName: "Stock Recomndation service",
-                imageName: "eqtrend.png",
+                imageName: "eqtrend.jpg",
                 siteLink: "https://www.eqtrend.com/"
             },
             {
                 catagory: "Website",
                 siteName: "Construction Service",
-                imageName: "a1costello.png",
+                imageName: "a1costello.jpg",
                 siteLink: "https://a1costellosons.com.au/"
             },
             {
                 catagory: "Website",
                 siteName: "Products showing",
-                imageName: "gnindia.png",
+                imageName: "gnindia.jpg",
                 siteLink: "https://gnindia.net/"
             },
             {
                 catagory: "Website",
                 siteName: "Education Center",
-                imageName: "eduaims.png",
+                imageName: "eduaims.jpg",
                 siteLink: "https://www.eduaims.in/"
             },
         ];
@@ -4993,42 +4993,42 @@ class ProjectData {
         return [
             {
                 name: "Avona Baldes",
-                imageName: "avona.png",
+                imageName: "avona.jpg",
                 link: "http://avonasupply.com/"
             },
             {
                 name: "Gnindia",
-                imageName: "gnindia.png",
+                imageName: "gnindia.jpg",
                 link: "https://gnindia.net/"
             },
             {
                 name: "a1costellosons",
-                imageName: "a1costellosons.png",
+                imageName: "a1costellosons.jpg",
                 link: "https://a1costellosons.com.au/"
             },
             {
                 name: "India Culinary Tours",
-                imageName: "indiaculinarytours.png",
+                imageName: "indiaculinarytours.jpg",
                 link: "https://indiaculinarytours.com/"
             },
             {
                 name: "Eduaims",
-                imageName: "eduaims.png",
+                imageName: "eduaims.jpg",
                 link: "https://www.eduaims.in/"
             },
             {
                 name: "Eqtrend",
-                imageName: "eqtrend.png",
+                imageName: "eqtrend.jpg",
                 link: "https://www.eqtrend.com/"
             },
             {
                 name: "Solar Man Australia",
-                imageName: "solarmanaustralia.png",
+                imageName: "solarmanaustralia.jpg",
                 link: "https://solarmanaustralia.energy/"
             },
             {
                 name: "Essential Logistics",
-                imageName: "essentiallogistics.png",
+                imageName: "essentiallogistics.jpg",
                 link: "http://essentiallogistics.net.in/"
             },
         ];
